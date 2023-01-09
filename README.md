@@ -1,2 +1,2 @@
 # Algebra-And-Geometry
-A collection of seminar assignments completed for a algebra and geometry course I took at KTH.
+A collection of seminar assignments completed for a multivariable calculus course I took at KTH. I believe these assignments provide a good sample of how I tackle concrete math problems in regards to algebra and geometry _(gaussian elimination, vector geometry with dot product and vector product, determinants, vector spaces, linear independence, bases, change of basis, linear transformations, the least-squares method, eigenvalues, eigenvectors, quadratic forms, orthogonality, inner-product space, Gram-Schmidt's method and so forth)_, feel free to have a look.
